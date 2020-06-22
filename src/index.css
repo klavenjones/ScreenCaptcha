@@ -23,7 +23,9 @@ h1 {
 }
 
 p {
-  margin: 5px 0 25px;
+  width: 100%;
+  text-align: center;
+  margin-top: 40px;
 }
 
 .buttons {
@@ -35,3 +37,8 @@ p {
 .buttons #startBtn {
   margin-right: 30px;
 }
+
+/* .buttons #videoButton {
+  width: 100%;
+  margin-bottom: 40px;
+} */
